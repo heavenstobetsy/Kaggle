@@ -1,3 +1,2 @@
 # Kaggle
-Kaggle examples
-Titanic
+Kaggle examples--Titanic
