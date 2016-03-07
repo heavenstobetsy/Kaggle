@@ -2,7 +2,7 @@
 #Kaggle examples: 
 
 ###•	Titanic data exploration, seaborn visualization, and machine learning.
-*The titanic dataset is used to predict the probibilty of survival based on gender, passenger class, age, family size, and other variables.*
+*The titanic dataset is used to predict the probability of survival based on gender, passenger class, age, family size, and other variables.*
 
 ###•	San Franciso Crime data exploration and visualization.
 
