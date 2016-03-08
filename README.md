@@ -12,5 +12,4 @@
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/density.plot.2014.2015.PNG "Optional title")
 
 
-###•	BNP Paribas Cardif's claims management process: data exploration, cleaning, and random forest model.
-
+###•	Santander's customer satisfaction data meant to identify dissatisfied customers early and before the customer leaves: data exploration, cleaning, and random forest model.
