@@ -6,7 +6,8 @@
 
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/Titanic.PNG "Optional title")
 
-###•	San Franciso Crime data exploration and visualization.
+###•	San Francisco Crime data exploration and visualization.
+*Exploring crime data in San Fransisco. A density map of larcency/theft in San Fransisco, broken out by year, as seen in the image below.*
 
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/density.plot.PNG "Optional title")
 
