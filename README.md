@@ -8,5 +8,8 @@
 
 ###•	San Franciso Crime data exploration and visualization.
 
+![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/density.plot.PNG "Optional title")
+
+
 ###•	BNP Paribas Cardif's claims management process: data exploration, cleaning, and random forest model.
 
