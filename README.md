@@ -9,7 +9,7 @@
 ###•	San Francisco Crime data exploration and visualization.
 *Exploring crime data in San Fransisco. A density map of larcency/theft in San Fransisco, broken out by year, as seen in the image below.*
 
-![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/density.plot.PNG "Optional title")
+![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/density.plot.2014.2015.PNG "Optional title")
 
 
 ###•	BNP Paribas Cardif's claims management process: data exploration, cleaning, and random forest model.
