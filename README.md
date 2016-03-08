@@ -12,5 +12,5 @@
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/density.plot.2014.2015.PNG "Optional title")
 
 
-###•	Santander's customer satisfaction data: hundreds of features used for data exploration, cleaning, and random forest model.
-*The Santander dataset is used to identify dissatisfied customers early on, especially before the customer leaves.*
+###•	Santander's customer satisfaction data: data exploration, cleaning, and random forest model.
+*The Santander dataset is used to identify dissatisfied customers early on, especially before the customer leaves.  This dataset has hundreds of features used to predict whether a customer is satisfied/dissatisfied with their banking experience*
