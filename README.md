@@ -16,5 +16,6 @@
 *The Santander dataset is used to identify dissatisfied customers early on, especially before the customer leaves.  This dataset has hundreds of features used to predict whether a customer is satisfied/dissatisfied with their banking experience*
 
 
-###•	Tweets during the first GOP debate in August. I created word clouds of Tweets mentioning Trump and Jeb Bush, in an outline of the US.
+###•	Tweets during the first GOP debate in August: Data visualization
+*I created word clouds of Tweets mentioning Trump and Jeb Bush, in an outline of the US.*
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/PoliticsTrumpTweets.PNG "Trump Tweets")
