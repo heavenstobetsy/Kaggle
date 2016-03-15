@@ -17,6 +17,6 @@
 
 
 
-###•	Tweets during the first GOP debate in August: Data visualization
+###•	Tweets during the first GOP debate in August: data exploration and visualization
 *I created word clouds of Tweets mentioning Trump and Jeb Bush, in an outline of the US.*
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/PoliticsTrumpTweets.PNG "Trump Tweets")
