@@ -9,7 +9,6 @@
 ###•	San Francisco Crime data exploration and visualization.
 *Exploring crime data in San Fransisco. A density map of larcency/theft in San Fransisco, broken out by year, as seen in the image below.*  Uses Seaborn for visualization.
 
-
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/density.plot.2014.2015.PNG "San Fransico Crime")
 
 
@@ -20,6 +19,7 @@
 
 ###•	Tweets during the first GOP debate in August: data exploration and visualization
 *I created word clouds of Tweets mentioning Trump and Jeb Bush, in an outline of the US.*  Uses WordCloud package for visualization.
+
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/PoliticsTrumpTweets.PNG "Trump Tweets")
 
 
