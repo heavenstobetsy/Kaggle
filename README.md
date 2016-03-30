@@ -26,3 +26,5 @@
 
 ###•	Predicting shelter animal outcomes: adoption, death, euthanasia, return to owner, and transfer.
 *This is a multi-class classification problem. Data exploration, visualization, and classification.*  I use sklearn: first an adaboost classifier.  Next up is a random forest model.
+
+![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/Shelter.PNG "Shelter Adoptions")
