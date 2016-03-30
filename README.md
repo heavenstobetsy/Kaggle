@@ -20,3 +20,8 @@
 ###•	Tweets during the first GOP debate in August: data exploration and visualization
 *I created word clouds of Tweets mentioning Trump and Jeb Bush, in an outline of the US.*
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/PoliticsTrumpTweets.PNG "Trump Tweets")
+
+
+
+###•	Predicting shelter animal outcomes: adoption, death, euthanasia, return to owner, and transfer.
+*This is a multi-class classification problem. Data exploration, visualization, and classification.  In the first go around, I use an adaboost classifier from sklearn and then use a random forest model/
