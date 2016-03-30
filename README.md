@@ -9,6 +9,7 @@
 ###•	San Francisco Crime data exploration and visualization.
 *Exploring crime data in San Fransisco. A density map of larcency/theft in San Fransisco, broken out by year, as seen in the image below.*  Uses Seaborn for visualization.
 
+
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/density.plot.2014.2015.PNG "San Fransico Crime")
 
 
@@ -24,4 +25,4 @@
 
 
 ###•	Predicting shelter animal outcomes: adoption, death, euthanasia, return to owner, and transfer.
-*This is a multi-class classification problem. Data exploration, visualization, and classification.*  I use sklearn: first an adaboost classifier.  Next up is a random forest model
+*This is a multi-class classification problem. Data exploration, visualization, and classification.*  I use sklearn: first an adaboost classifier.  Next up is a random forest model.
