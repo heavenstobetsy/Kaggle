@@ -2,7 +2,7 @@
 #Kaggle examples: 
 
 ###•	Titanic data exploration, seaborn visualization, and machine learning.
-*The titanic dataset is used to predict the probability of survival based on gender, passenger class, age, family size, and other variables as seen in the image below.*  I used Seaborn for visualization and Sklearn for logistic regression and random forest models.  I cleaned the dataset, and used logistic regression and random forest for models; I then used cross validation to choose the best model.
+*The titanic dataset is used to predict the probability of survival based on gender, passenger class, age, family size, and other variables as seen in the image below.*  I used Seaborn for visualization and Sklearn for logistic regression and random forest models.  I cleaned the dataset and used logistic regression and random forest for models; I then used cross validation to choose the best model.
 
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/Titanic.PNG "Titanic Variables")
 
@@ -24,7 +24,7 @@
 
 
 
-###•	Predicting shelter animal outcomes: adoption, death, euthanasia, return to owner, and transfer.
+###•	Predicting shelter animal outcomes: adoption, death, euthanasia, return to owner, and transfer: adaptive bbooster classifier.
 *This is a multi-class classification problem. Data exploration, visualization, and classification.*  Currently a work in progress.  I cleaned the data and used sklearn: first I used an adaboost classifier and used log loss as an evaluation metric.  Next up is a random forest model.
 
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/Shelter.PNG "Shelter Adoptions")
