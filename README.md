@@ -24,8 +24,8 @@
 
 
 
-###•	Predicting Rossmann Sales: 
-*This is a multi-class classification problem. Data exploration, visualization, and classification.*  Currently a work in progress.  I cleaned the data and used sklearn: first I used an adaboost classifier and used log loss as an evaluation metric.  Next up is a random forest model.
+###•	Predicting Rossmann Store Sales: Forecasting sales volume based on stores, promotions, and competitors.
+*Data exploration, visualization, and prediction.*  I cleaned the data and used matplotlib for visualization. I then used a linear regression model to predict the next 6 weeks of sales by store.
 
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/Rossmann.PNG "Competition Distance vs Sales Volume")
 
