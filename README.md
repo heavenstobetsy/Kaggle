@@ -32,6 +32,6 @@
 
 
 ###•	Predicting shelter animal outcomes: adoption, death, euthanasia, return to owner, and transfer: adaptive bbooster classifier.
-*This is a multi-class classification problem. Data exploration, visualization, and classification.*  Currently a work in progress.  I cleaned the data and used sklearn: first I used an adaboost classifier and used log loss as an evaluation metric.  Next up is a random forest model.
+*This is a multi-class classification problem. Data exploration, visualization, and classification.*  Currently a work in progress.  I cleaned the data and used sklearn: first I used an adaboost classifier and used log loss as an evaluation metric.  
 
 ![Alt text](https://github.com/heavenstobetsy/Kaggle/blob/master/images/Shelter.PNG "Shelter Adoptions")
